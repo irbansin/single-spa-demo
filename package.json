@@ -4,7 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "single-spa": "^6.0.3"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.3",
+    "react-transition-group": "^4.4.5",
+    "single-spa": "^6.0.3",
+    "single-spa-react": "^6.0.2"
   },
   "scripts": {
     "start": "webpack-dev-server --open",
